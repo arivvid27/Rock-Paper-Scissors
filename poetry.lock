@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = ""
+name = "simpletimer"
+optional = false
+python-versions = "*"
+version = "0.1"
+
+[metadata]
+content-hash = "3a1190b48be31021d4089ca967fac571919b907f1b4df6e521d6fdd5f97565a6"
+python-versions = "^3.8"
+
+[metadata.files]
+simpletimer = [
+    {file = "simpletimer-0.1-py3-none-any.whl", hash = "sha256:19cc057b15c15ff457f2deb16c3ae3bc68ddad1b28bc0da1326cc58a1efe89b0"},
+    {file = "simpletimer-0.1.tar.gz", hash = "sha256:7cb059515b94887b51638dfaedfe20bed20fa0af2bcfe4762d89714f7a2820d4"},
+]
